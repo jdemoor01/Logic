@@ -25,6 +25,6 @@ The project will be worked on without a schedule on a do-it-when-you-can-or-want
 * Other guidelines
 
 ### Who do I talk to? ###
-
+s
 * Repo owner or admin
 * Other community or team contact
