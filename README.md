@@ -12,7 +12,10 @@ The project will be worked on without a schedule on a do-it-when-you-can-or-want
 <li>Get a good grasp on the functionality and use of HTML, PHP, CSS, Javascript, and git.</li>
 <li>Interact with a live server which we'll push everything too when we reach our target state</li>
 <li>Work with a team (especially using git) as most CS jobs are team based</li>
+* something else
 </ul>
+
+
 
 ### How do I get set up? ###
 
