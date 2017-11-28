@@ -7,10 +7,10 @@
 
 ### This project will be a learning experience with the intent to pass knowledge of how to: ###
 
-* Setup a webpage with the WAMP interface</li>
-* Get a good grasp on the functionality and use of HTML, PHP, CSS, Javascript, and git.</li>
-* Interact with a live server which we'll push everything too when we reach our target state</li>
-* Work with a team (especially using git) as most CS jobs are team based</li>
+* Setup a webpage with the WAMP interface
+* Get a good grasp on the functionality and use of HTML, PHP, CSS, Javascript, and git
+* Interact with a live server which we'll push everything too when we reach our target state
+* Work with a team (especially using git) as most CS jobs are team based
 * something else
 
 ### How do I get set up? ###
