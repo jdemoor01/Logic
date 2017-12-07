@@ -1,0 +1,23 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "## logicReference ## ### logicReference will be a live webpage to interactively learn about basic logic gates and structures. The project will be worked on without a schedule on a do-it-when-you-can-or-want-to basis. ###",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "scss": "node-sass --watch scss -o public/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdemoor01/Logic.git"
+  },
+  "author": "Jacob C. DeMoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdemoor01/Logic/issues"
+  },
+  "homepage": "https://github.com/jdemoor01/Logic#readme",
+  "dependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
