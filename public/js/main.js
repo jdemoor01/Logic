@@ -7,5 +7,5 @@ function simpleNot(){
 }
 
 function clearNotOutput(){
-  $("#notOutput").val();
+  $("#notOutput").val("");
 }
