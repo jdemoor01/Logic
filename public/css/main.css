@@ -1,6 +1,9 @@
 .fluid-container {
   margin: 100px 0 0; }
 
+nav li a {
+  padding: auto 2rem !important; }
+
 .not input {
   margin: 90px 0 0; }
 
@@ -9,3 +12,9 @@
 
 .not-input {
   float: right; }
+
+footer {
+  margin-bottom: 0;
+  padding-bottom: 0; }
+  footer img {
+    min-width: 100%; }
