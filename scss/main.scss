@@ -1,16 +1,33 @@
 .fluid-container {
-  margin: 100px 0 0;
+    margin: 100px 0 0;
+}
+
+nav {
+    li {
+        a {
+            padding: auto 2rem !important;
+        }
+    }
 }
 
 .not {
-  input {
-    margin: 90px 0 0;
-  }
+    input {
+        margin: 90px 0 0;
+    }
 
-  img { 
-    width: 400px;
-  }
+    img {
+        width: 400px;
+    }
 }
-.not-input{
-  float:right;
+
+.not-input {
+    float: right;
+}
+
+footer {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    img {
+        min-width: 100%;
+    }
 }
